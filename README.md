@@ -22,5 +22,8 @@ Some actions require user authentication.
 - **Update Settings**: Customize the app settings to suit your shop's requirements.
 - **Update Credential**: Change the login credentials.
 
+### Download
+- [CashFlow v1.0.0-beta windows](https://github.com/mrxoder/CashFlow/releases/tag/v1.0.0-beta)
+
 
 
